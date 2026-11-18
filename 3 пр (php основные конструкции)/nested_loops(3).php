@@ -5,6 +5,12 @@
     <meta name="viewport" content="width=
     , initial-scale=1.0">
     <title>Практическая 3, задание 3: вложенные циклы.</title>
+            <style>
+        html {
+            filter: invert(1);
+            background-color: #ffffff;
+        }
+    </style>
 </head>
 <body>
     

@@ -1,3 +1,9 @@
+        <style>
+        html {
+            filter: invert(1);
+            background-color: #ffffff;
+        }
+    </style>
 
 <?php
 // формула 1

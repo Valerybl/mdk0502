@@ -1,3 +1,10 @@
+        <style>
+        html {
+            filter: invert(1);
+            background-color: #ffffff;
+        }
+    </style>
+
 <?php
 
 // задача 1
